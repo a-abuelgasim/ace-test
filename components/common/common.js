@@ -1,1 +1,1 @@
-export const COMMON = 'Common';
+export const COMMON = 'Common 1';
